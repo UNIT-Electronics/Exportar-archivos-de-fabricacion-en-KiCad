@@ -69,3 +69,4 @@ Al darle click al icono, automáticamente generará una serie de archivos que se
 ⌨️ con ❤️ por UNIT-Electronics 😊
 
 # Exportar-archivos-de-fabricacion-en-KiCad
+# Exportar-archivos-de-fabricacion-en-KiCad
