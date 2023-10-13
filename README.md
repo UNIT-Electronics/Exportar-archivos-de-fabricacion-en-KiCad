@@ -10,6 +10,8 @@ __*Nota:__ Esta guía se realizó tomando como base la versión 7.0 de KiCad
   - [Contenido](#contenido)
   - [Instalación de Fabrication Toolkit](#instalación-de-fabrication-toolkit)
   - [Exportación de archivos](#exportación-de-archivos)
+- [Exportar-archivos-de-fabricacion-en-KiCad](#exportar-archivos-de-fabricacion-en-kicad)
+- [Exportar-archivos-de-fabricacion-en-KiCad](#exportar-archivos-de-fabricacion-en-kicad-1)
 
 
 ## Instalación de Fabrication Toolkit
@@ -21,13 +23,13 @@ Fabrication Toolkit es una herramienta de KiCad diseñada para generar de forma 
 1. Desde el menú de inicio de KiCad, acceder al menú de __Complemento y Administrador de Contenido__
 
 
-![Main Menu](Main%20Menu.jpg)
+![Main Menu](./Imagenes/MainMenu.jpg)
 
 
 1. Dentro del menú de complementos, buscar a través de la barra de búsqueda: "__Fabrication Toolkit__" e instalar el complemento
 
 
-![Admin Content](Admin%20Content.jpg)
+![Admin Content](./Imagenes/AdminContent.jpg)
 
 
 [Subir a contenido](#contenido)
@@ -39,10 +41,10 @@ Fabrication Toolkit es una herramienta de KiCad diseñada para generar de forma 
 Para la exportación de archivos debemos ya tener una PCB diseñada, por defecto el plugin de Fabrication Toolkit nos da un campo en los archivos que vamos a generar llamado __LCSC Part#__, al hacer clic derecho sobre un componente podremos acceder a un menú llamado __Propiedades del símbolo__, dentro de estas se puede agregar un nuevo campo llamado __LCSC Part#__ y darle el valor de un componente de LCSC Electronics para tenerlo como referencia al exportar los archivos
 
 
-![Symbol Properties](Symbol-Properties.gif)
+![Symbol Properties](./Imagenes/Symbol-Properties.gif)
 
 
-![Modifying Properties](Modifying-Properties.gif)
+![Modifying Properties](./Imagenes/ModifyingProperties.gif)
 
 
 Este paso anterior es completamente opcional, sin embargo ayuda para tener una referencia de que componente corresponde al footprint.
@@ -51,13 +53,13 @@ Este paso anterior es completamente opcional, sin embargo ayuda para tener una r
 Para exportar los archivos, hay que ir al editor de PCB y en la parte de arriba donde se encuentra las herramientas, se encuentra el ícono del Fabrication Toolkit:
 
 
-![Icon](icon.jpg)
+![Icon](./Imagenes/icon.jpg)
 
 
 Al darle click al icono, automáticamente generará una serie de archivos que se quedan guardados en la carpeta del proyecto:
 
 
-![Generated Archives](Generated%20Archives.jpg)
+![Generated Archives](./Imagenes/GeneratedArchives.jpg)
 
 
 [Subir a contenido](#contenido)
