@@ -10,8 +10,6 @@ __*Nota:__ Esta guía se realizó tomando como base la versión 7.0 de KiCad
   - [Contenido](#contenido)
   - [Instalación de Fabrication Toolkit](#instalación-de-fabrication-toolkit)
   - [Exportación de archivos](#exportación-de-archivos)
-- [Exportar-archivos-de-fabricacion-en-KiCad](#exportar-archivos-de-fabricacion-en-kicad)
-- [Exportar-archivos-de-fabricacion-en-KiCad](#exportar-archivos-de-fabricacion-en-kicad-1)
 
 
 ## Instalación de Fabrication Toolkit
@@ -69,6 +67,3 @@ Al darle click al icono, automáticamente generará una serie de archivos que se
 
 
 ⌨️ con ❤️ por UNIT-Electronics 😊
-
-# Exportar-archivos-de-fabricacion-en-KiCad
-# Exportar-archivos-de-fabricacion-en-KiCad
